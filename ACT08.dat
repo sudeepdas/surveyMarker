@@ -1,0 +1,14 @@
+globeColor white
+maskColor  mediumgray
+labelColor black
+raLabelColor blue
+decLabelColor orange
+possibleCoverageColor lightgray
+gridColor slategray
+bgColor darkgray
+COSMOS256nest  darkgreen  150.1 2.2 COSMOS
+ACT-SOUTH-2008256nest orange 50. -55. 
+ACT-EQU-2008256nest orange 130. 0.0  
+BCS_23hr256nest red 354  -55. BCS-23hr
+BCS_5hr256nest red 82.5 -53. BCS-05hr
+SDSS_82256nest brightgreen 355 -6. SDSS-stripe-82
