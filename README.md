@@ -8,4 +8,3 @@ Documentation at:
 http://www.hep.anl.gov/sdas/surveyMarker.html
 
 
-http://www.hep.anl.gov/sdas/surveyMarker_files/pmwiki.php.jpg
